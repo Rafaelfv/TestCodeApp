@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:orientation="vertical"
+              android:layout_weight="4"
+>
+    <TextView android:layout_width="match_parent"
+              android:layout_height="@dimen/dimentionZero"
+              android:layout_weight="1"
+
+              android:id="@+id/tvName_fp"
+              style="@style/tvInfoProfile"
+    />
+
+    <TextView android:layout_width="match_parent"
+              android:layout_height="@dimen/dimentionZero"
+              android:layout_weight="1"
+              style="@style/tvInfoProfile"
+              android:id="@+id/tvEmail_fp"
+    />
+    <TextView android:layout_width="match_parent"
+              android:layout_height="@dimen/dimentionZero"
+              android:layout_weight="1"
+              android:id="@+id/tvJob_fp"
+              style="@style/tvInfoProfile"
+    />
+    <TextView android:layout_width="match_parent"
+              android:layout_height="@dimen/dimentionZero"
+              android:layout_weight="1"
+              android:id="@+id/tvNumber_fp"
+              style="@style/tvInfoProfile"
+    />
+
+</LinearLayout>

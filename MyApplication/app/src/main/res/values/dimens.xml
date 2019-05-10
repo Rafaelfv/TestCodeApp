@@ -1,0 +1,54 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!--Dimentions genericas -->
+    <dimen name="dimentionZero">0dp</dimen>
+
+    <!-- Dimentions Linear Btn Fragmt Main-->
+    <dimen name="dimentionBoxBtnsMain_height">330dp</dimen>
+    <dimen name="dimentionBoxBtnsMain_margin">15dp</dimen>
+
+    <!-- Dimentions btn Generic-->
+    <dimen name="textSizeBtnGeneric">26dp</dimen>
+    <dimen name="marginBtnGeneric">22dp</dimen>
+
+
+    <!-- Dimentions Fragment Profile-->
+    <dimen name="heightPhoto_fp">180dp</dimen>
+    <dimen name="widthPhoto_fp">160dp</dimen>
+    <dimen name="marginTopPhoto_fp">12dp</dimen>
+    <dimen name="cornerRadiusPhoto_fp">20dp</dimen>
+
+    <dimen name="margin_top_frame_fp">30dp</dimen>
+    <dimen name="margin_left_frame_fp">20dp</dimen>
+    <dimen name="margin_right_frame_fp">20dp</dimen>
+    <dimen name="margin_below_frame_fp">30dp</dimen>
+    <dimen name="hegit_frame_fp">200dp</dimen>
+    <dimen name="widthInfoFrame_fp">300dp</dimen>
+    <dimen name="heightInfoFrame_fp">180dp</dimen>
+
+
+    <dimen name="height_recycler_skills">90dp</dimen>
+    <dimen name="margin_top_recycler">20dp</dimen>
+
+
+    <!-- Fragment experience-->
+    <dimen name="marginRecycler_fe">20dp</dimen>
+
+    <dimen name="marginCardView">10dp</dimen>
+    <dimen name="radiusCardExperience">8dp</dimen>
+    <dimen name="heightItemExperience">200dp</dimen>
+    <dimen name="heightTextTitleExperience">45dp</dimen>
+    <dimen name="paddingTxtInfoExp">8dp</dimen>
+
+
+    <!-- Dimentios loader-->
+    <dimen name="measureLoader">140dp</dimen>
+
+
+    <!-- Dimentions for School-->
+    <dimen name="marginLinearSchool">20dp</dimen>
+    <dimen name="heigtLinearSchool">200dp</dimen>
+
+
+</resources>

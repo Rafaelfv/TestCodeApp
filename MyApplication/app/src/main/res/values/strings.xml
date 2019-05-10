@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Fragment Main -->
+    <string name="frg_main_btn_perfil">Perfil</string>
+    <string name="frg_main_btn_experience">Experiencia</string>
+    <string name="frg_main_btn_education">Educación</string>
+
+    <!-- Error codes-->
+    <string name="CodeErrorResponseNull">Sin respuesta del servicio</string>
+    <string name="CodeErrorResponseStatus">Respuesta del servicio Erronea</string>
+    <string name="WithOutData">Sin datos, intente mas tarde</string>
+
+</resources>

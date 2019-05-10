@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              android:clickable="true"
+              android:background="@color/backgroundColorOne"
+>
+    <LinearLayout android:layout_width="match_parent"
+                  android:layout_height="@dimen/heigtLinearSchool"
+                  android:layout_margin="@dimen/marginLinearSchool"
+                  android:orientation="vertical"
+                  android:layout_weight="4"
+    >
+        <TextView android:layout_width="match_parent"
+                  android:layout_height="@dimen/dimentionZero"
+                  android:text="aaaaa"
+                  android:layout_weight="1"
+                  style="@style/tvTitleToolbar"
+                  android:id="@+id/dateSchool"
+        />
+        <TextView android:layout_width="match_parent"
+                  android:layout_height="@dimen/dimentionZero"
+                  android:layout_weight="3"
+                  style="@style/tvInfoExperiece"
+                  android:id="@+id/tvInfoSchool"
+        />
+
+
+    </LinearLayout>
+
+
+
+</LinearLayout>
